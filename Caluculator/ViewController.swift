@@ -91,7 +91,10 @@ class ViewController: UIViewController {
     }
     
     @IBAction func clear(){
-
+        number1 = 0
+        number2 = 0
+        number3 = 0
+        label.text = String(number3)
     }
     
     @IBAction func equal(){

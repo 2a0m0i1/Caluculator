@@ -15,6 +15,7 @@
 		E0141085264AD799000DCE2F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0141083264AD799000DCE2F /* LaunchScreen.storyboard */; };
 		E0141090264AD799000DCE2F /* CaluculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E014108F264AD799000DCE2F /* CaluculatorTests.swift */; };
 		E014109B264AD799000DCE2F /* CaluculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E014109A264AD799000DCE2F /* CaluculatorUITests.swift */; };
+		E0E39BE9264CF999000D776F /* haikei.png in Resources */ = {isa = PBXBuildFile; fileRef = E0E39BE8264CF999000D776F /* haikei.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E0141096264AD799000DCE2F /* CaluculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CaluculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E014109A264AD799000DCE2F /* CaluculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaluculatorUITests.swift; sourceTree = "<group>"; };
 		E014109C264AD799000DCE2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0E39BE8264CF999000D776F /* haikei.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = haikei.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		E014106C264AD797000DCE2F = {
 			isa = PBXGroup;
 			children = (
+				E0E39BE8264CF999000D776F /* haikei.png */,
 				E0141077264AD797000DCE2F /* Caluculator */,
 				E014108E264AD799000DCE2F /* CaluculatorTests */,
 				E0141099264AD799000DCE2F /* CaluculatorUITests */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0E39BE9264CF999000D776F /* haikei.png in Resources */,
 				E0141085264AD799000DCE2F /* LaunchScreen.storyboard in Resources */,
 				E0141082264AD799000DCE2F /* Assets.xcassets in Resources */,
 				E0141080264AD797000DCE2F /* Main.storyboard in Resources */,
